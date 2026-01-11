@@ -11,3 +11,6 @@
 	* `git commit -m 'my best commit'`
 5. Обновите репозиторий в вашем GitHub-аккаунте:
 	* `git push origin main`
+
+	https://console.yandex.cloud/folders/b1gnsginas01bhmrlk73/container-registry/registries/crpnegt3d7f879v0o9gj/overview/dds_service/image
+	https://console.yandex.cloud/folders/b1gnsginas01bhmrlk73/container-registry/registries/crpnegt3d7f879v0o9gj/overview/cdm_service/image
